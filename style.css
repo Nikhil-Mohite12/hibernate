@@ -1,0 +1,27 @@
+.col-dm-6{margin:70px;
+         padding:50px;
+}
+body {background-image: url("river.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(201, 31, 31);
+     }
+    
+
+ .textbox input{background:none;}
+ .textbox textarea{background: none;}
+
+
+ .container1{
+            
+     
+    
+             position:absolute;
+             width:250px ;
+             top: 40%;
+             left: 40%;
+             transform: translate(-50%,-50%);
+             font-size: 20px;
+             color: darkgoldenrod;
+
+}
